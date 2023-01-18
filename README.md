@@ -63,5 +63,5 @@ export const TodoForm = () => {
 }
 ```
 
-To see an example project of how all this fits together, check out https://github.com/launchscout/live_state/tree/main/testbed
+To see an example project of how all this fits together, check out https://github.com/launchscout/live_state_testbed
 
